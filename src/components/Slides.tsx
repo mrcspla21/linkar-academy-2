@@ -266,7 +266,7 @@ export const Slide7 = () => {
 
 export const Slide8 = () => {
   const patentes = [
-    { title: "Explorer", badge: "Nível Médio - 1º Mês", desc: "Ingresso no ecossistema Linkara. Etapa de exploração, ambientação e fundamentos iniciais.", img: "https://leydux.com.br/wp-content/uploads/2026/03/01-1.png" },
+    { title: "Explorer", badge: "Nível Médio - 1º Mês", desc: "Ingresso no ecossistema Linkar. Etapa de exploração, ambientação e fundamentos iniciais.", img: "https://leydux.com.br/wp-content/uploads/2026/03/01-1.png" },
     { title: "Builder", badge: "Nível Médio - Meses 2 e 3", desc: "Desenvolvimento da base técnica e aplicação orientada dos conhecimentos.", img: "https://leydux.com.br/wp-content/uploads/2026/03/02-1.png" },
     { title: "Operator", badge: "Nível Médio - Meses 4 a 6", desc: "Execução estruturada e atuação prática com acompanhamento.", img: "https://leydux.com.br/wp-content/uploads/2026/03/03-1.png" },
     { title: "Strategist", badge: "Nível Avançado - 1º Trimestre", desc: "Visão estratégica conectada aos objetivos do negócio.", img: "https://leydux.com.br/wp-content/uploads/2026/03/04-1.png", isAdvanced: true },
